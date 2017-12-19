@@ -1,7 +1,5 @@
 # Numerical-Health-Values
 
-A simple TF2 hud that adds easy to read health values, while keeping true to the stock hud
-
 A simple TF2 hud addition that adds easy to read health values to player's health icons, while staying true to the style of the stock hud. This is perfect for people who wish to keep the original hud of Team Fortress 2 and also be able to clearly see exactly how much health somebody has.
 
 ![56d9030a1ec6c](https://user-images.githubusercontent.com/13933661/34137533-7bb4fa82-e439-11e7-9c02-201573a25d6c.jpg)
